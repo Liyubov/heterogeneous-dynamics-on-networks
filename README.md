@@ -1,7 +1,9 @@
 # Heterogeneous dynamics on networks
 
 
-Here I put the code for analysis of dynamics on networks:
+Here we include code for analysis of dynamics on networks:
+1. Heterogeneous epidemics spreading
+2. Heterogeneous random walk on network  
 
 ## Heterogeneous epidemics spreading
 
