@@ -10,7 +10,7 @@ Created on Thu Mar 26 20:54:29 2020
 2. Epidemics spreaing: Susceptible-Infected-Recovered model
 
 
-## Spreding on networks 
+## Spreading on networks 
 
 
 The main resources on spreading on networks can be found in [1].
