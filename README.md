@@ -15,7 +15,12 @@ https://sites.google.com/view/fellowshipresultsliubov/research-projects/epidemic
 
 ## Heterogeneous random walk on network 
 
+
 This is another project, which we are working with my colleagues from Ecole Polytechnique (in the group of Dr.Denis Grebenkov from Laboratoir of Condensed Matter Physics). Code is available in Matlab.
+
+#### Matlab Code 
+Some code in the repository is in matlab https://github.com/Liyubov/heterogeneous-dynamics-on-networks/tree/master/code_matlab 
+The main function is main_prog_HCTRW.m which uses other functions. 
 
 More details about our articles and computation of the propagator for Heterogeneous Continuous time random walk model can be found in 
 https://sites.google.com/view/fellowshipresultsliubov/research-projects/random-walks-analysis-and-applications?authuser=0 
